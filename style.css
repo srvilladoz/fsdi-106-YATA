@@ -1,0 +1,27 @@
+h1 {
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+main {
+    align-content: center;
+}
+
+body {
+    background-color: rgb(86, 184, 135);
+    align-content: space-between;
+    
+}
+
+.container {
+    align-content: center;
+}
+
+
+.col-12 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3rem;
+    color: blueviolet;
+    justify-content: space-between;
+}
